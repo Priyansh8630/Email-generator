@@ -35,7 +35,7 @@ const EmailGenerator = () => {
         {
           headers: {
             'Content-Type': 'application/json',
-            'Authorization': 'Bearer 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'
+            'Authorization': 'Bearer <Your API Key>'
           }
         }
       );
